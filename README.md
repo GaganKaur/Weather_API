@@ -9,3 +9,4 @@ We then make use of OWM API to get the weather data for each of these cities and
 
 We then plot four scatter plots to study the dependence of temperature, humidity, cloudiness and wind speed on latitides respectively.
 
+"Test"
